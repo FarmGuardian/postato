@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\USER\\Downloads\\postiz-app-main\\postiz-app\\logs\\.1e1f3fdc0a1d366513a3fb956826e721e5bdf437-audit.json",
+    "files": [
+        {
+            "date": 1781443215157,
+            "name": "C:\\Users\\USER\\Downloads\\postiz-app-main\\postiz-app\\logs\\mcp-puppeteer-2026-06-14.log",
+            "hash": "a0c449bdbbffa9dca1e96ae0fb73c38e054bbc9dec3123c9be4a9b1e6bbb3d55"
+        }
+    ],
+    "hashType": "sha256"
+}
