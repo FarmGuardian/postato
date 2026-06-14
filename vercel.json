@@ -1,3 +1,6 @@
 {
-  "outputDirectory": "apps/frontend/.next"
+  "buildCommand": "pnpm run build:frontend",
+  "outputDirectory": "apps/frontend/.next",
+  "framework": null,
+  "installCommand": "pnpm install"
 }
