@@ -1,4 +1,7 @@
 {
-  "buildCommand": "pnpm run build",
-  "outputDirectory": "apps/frontend/.next"
+  "buildCommand": "pnpm --filter ./apps/frontend run build",
+  "outputDirectory": "apps/frontend/.next",
+  "installCommand": "pnpm install",
+  "framework": "nextjs",
+  "rootDirectory": "apps/frontend"
 }
