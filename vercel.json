@@ -1,0 +1,5 @@
+{
+  "outputDirectory": "apps/frontend/.next",
+  "buildCommand": "pnpm run build"
+}
+
